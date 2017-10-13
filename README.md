@@ -1,5 +1,6 @@
-# Ng2Ws
+# Angular2 Test App
 
+Angular2 test application developed for learning purpose.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
 
 ## Development server
