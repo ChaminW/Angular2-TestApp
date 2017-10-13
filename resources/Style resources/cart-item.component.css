@@ -1,0 +1,26 @@
+
+.card {
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.card-img-top {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  float: left;
+
+}
+
+.card-body .card-content {
+  padding: 10px;
+  float: left;
+}
+
+li {
+  list-style: none;
+}
+
+.modal-content {
+  width: 350px !important;
+}
